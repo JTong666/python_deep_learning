@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_model-310"
+all_model_checkpoint_paths: "mnist_model-306"
+all_model_checkpoint_paths: "mnist_model-307"
+all_model_checkpoint_paths: "mnist_model-308"
+all_model_checkpoint_paths: "mnist_model-309"
+all_model_checkpoint_paths: "mnist_model-310"
